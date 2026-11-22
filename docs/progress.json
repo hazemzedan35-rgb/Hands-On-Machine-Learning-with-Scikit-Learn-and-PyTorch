@@ -1,0 +1,141 @@
+{
+  "book": "Hands-On Machine Learning with Scikit-Learn and PyTorch",
+  "author": "Aurélien Géron",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Machine Learning Landscape",
+      "folder": "01-the-machine-learning-landscape",
+      "part": "ML fundamentals"
+    },
+    {
+      "number": 2,
+      "title": "End-to-End Machine Learning Project",
+      "folder": "02-end-to-end-machine-learning-project",
+      "part": "ML fundamentals"
+    },
+    {
+      "number": 3,
+      "title": "Classification",
+      "folder": "03-classification",
+      "part": "ML fundamentals"
+    },
+    {
+      "number": 4,
+      "title": "Training Models",
+      "folder": "04-training-models",
+      "part": "ML fundamentals"
+    },
+    {
+      "number": 5,
+      "title": "Decision Trees",
+      "folder": "05-decision-trees",
+      "part": "ML fundamentals"
+    },
+    {
+      "number": 6,
+      "title": "Ensemble Learning and Random Forests",
+      "folder": "06-ensemble-learning-and-random-forests",
+      "part": "ML fundamentals"
+    },
+    {
+      "number": 7,
+      "title": "Dimensionality Reduction",
+      "folder": "07-dimensionality-reduction",
+      "part": "ML fundamentals"
+    },
+    {
+      "number": 8,
+      "title": "Unsupervised Learning Techniques",
+      "folder": "08-unsupervised-learning-techniques",
+      "part": "ML fundamentals"
+    },
+    {
+      "number": 9,
+      "title": "Introduction to Artificial Neural Networks",
+      "folder": "09-introduction-to-artificial-neural-networks",
+      "part": "Neural networks & deep learning"
+    },
+    {
+      "number": 10,
+      "title": "Building Neural Networks with PyTorch",
+      "folder": "10-building-neural-networks-with-pytorch",
+      "part": "Neural networks & deep learning"
+    },
+    {
+      "number": 11,
+      "title": "Training Deep Neural Networks",
+      "folder": "11-training-deep-neural-networks",
+      "part": "Neural networks & deep learning"
+    },
+    {
+      "number": 12,
+      "title": "Deep Computer Vision Using Convolutional Neural Networks",
+      "folder": "12-deep-computer-vision-using-convolutional-neural-networks",
+      "part": "Neural networks & deep learning"
+    },
+    {
+      "number": 13,
+      "title": "Processing Sequences Using RNNs and CNNs",
+      "folder": "13-processing-sequences-using-rnns-and-cnns",
+      "part": "Neural networks & deep learning"
+    },
+    {
+      "number": 14,
+      "title": "Natural Language Processing with RNNs and Attention",
+      "folder": "14-natural-language-processing-with-rnns-and-attention",
+      "part": "Neural networks & deep learning"
+    },
+    {
+      "number": 15,
+      "title": "Transformers for Natural Language Processing and Chatbots",
+      "folder": "15-transformers-for-natural-language-processing-and-chatbots",
+      "part": "Neural networks & deep learning"
+    },
+    {
+      "number": 16,
+      "title": "Vision and Multimodal Transformers",
+      "folder": "16-vision-and-multimodal-transformers",
+      "part": "Neural networks & deep learning"
+    },
+    {
+      "number": 17,
+      "title": "Speeding Up Transformers",
+      "folder": "17-speeding-up-transformers",
+      "part": "Neural networks & deep learning"
+    },
+    {
+      "number": 18,
+      "title": "Autoencoders, GANs, and Diffusion Models",
+      "folder": "18-autoencoders-gans-and-diffusion-models",
+      "part": "Neural networks & deep learning"
+    },
+    {
+      "number": 19,
+      "title": "Reinforcement Learning",
+      "folder": "19-reinforcement-learning",
+      "part": "Neural networks & deep learning"
+    }
+  ],
+  "completed_chapters": [],
+  "days": [
+    {
+      "number": 1,
+      "chapter": 1,
+      "title": "ML Landscape and Learning Systems",
+      "folder": "day-01-ml-landscape",
+      "date": null,
+      "status": "notes",
+      "practice": "starter"
+    },
+    {
+      "number": 2,
+      "chapter": 1,
+      "title": "ML Challenges and Validation",
+      "folder": "day-02-challenges-validation",
+      "date": null,
+      "status": "notes",
+      "practice": "starter"
+    }
+  ]
+}
